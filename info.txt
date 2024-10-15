@@ -1,0 +1,8 @@
+{
+	"name": "Reitem",
+	"version": "1.0.0",
+	"title": "Reitem",
+	"author": "Alkumist",
+	"description": "changes some Recepies to, in my mind, make more sence",
+	"factorio_version": "1.1"
+}
