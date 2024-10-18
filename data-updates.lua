@@ -169,6 +169,7 @@ data.raw.recipe["land-mine"].ingredients = {
   {"shotgun-shell", 2},
   {"explosives", 2}
 }
+--[[
   {
     type = "recipe",
     name = "light-armor",
@@ -177,6 +178,7 @@ data.raw.recipe["land-mine"].ingredients = {
     ingredients = {{"iron-plate", 40}},
     result = "light-armor"
   }
+
   {
     type = "recipe",
     name = "heavy-armor",
@@ -185,6 +187,7 @@ data.raw.recipe["land-mine"].ingredients = {
     ingredients = {{ "copper-plate", 100}, {"steel-plate", 50}},
     result = "heavy-armor"
   }
+
   {
     type = "recipe",
     name = "modular-armor",
@@ -197,6 +200,7 @@ data.raw.recipe["land-mine"].ingredients = {
     },
     result = "modular-armor"
   }
+
   {
     type = "recipe",
     name = "power-armor",
@@ -206,6 +210,7 @@ data.raw.recipe["land-mine"].ingredients = {
     result = "power-armor",
     requester_paste_multiplier = 1
   }
+
   {
     type = "recipe",
     name = "power-armor-mk2",
@@ -215,3 +220,4 @@ data.raw.recipe["land-mine"].ingredients = {
     result = "power-armor-mk2",
     requester_paste_multiplier = 1
   }
+--]]
